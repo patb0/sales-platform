@@ -1,0 +1,3 @@
+[submodule "sales-platform-front"]
+	path = sales-platform-front
+	url = https://github.com/b4kii/sales-platform-front.git
